@@ -1,0 +1,12 @@
+$begin 'RFSM'
+	$begin 'RadSurfs'
+	$end 'RadSurfs'
+	$begin 'CustomSurfs'
+	$end 'CustomSurfs'
+	$begin 'SetupSolns'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=0, VersID=1, ParentID=22, VersID=25, Context='0:0', DesVarn='h=\'0.7874mm\' t=\'0.035mm\'', IntrVarn='Freq=\'8.84GHz\'')
+			SetupSolnFBOFile='45ED4416162998703122.tmp'
+		$end 'SetupSolnEntry'
+	$end 'SetupSolns'
+$end 'RFSM'
